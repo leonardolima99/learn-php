@@ -31,6 +31,9 @@
     }
     ?>
   </p>
+  <p>
+    <?php echo 'testando a assinatura do git' ?>
+  </p>
 </body>
 
 </html>
