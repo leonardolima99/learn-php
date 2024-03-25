@@ -32,7 +32,7 @@
     ?>
   </p>
   <p>
-    <?php echo 'testando a assinatura do git 2' ?>
+    <?php echo 'testando a assinatura do git 3' ?>
   </p>
 </body>
 
